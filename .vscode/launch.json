@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ExampleList",
+            "type": "dart",
+            "request": "launch",
+            "program": "src/example_list.dart"
+        },
+        {
+            "name": "Map",
+            "type": "dart",
+            "request": "launch",
+            "program": "src/example_map.dart"
+        },
+        {
+            "name": "Set",
+            "type": "dart",
+            "request": "launch",
+            "program": "src/example_set.dart"
+        },
+        {
+            "name": "Function",
+            "type": "dart",
+            "request": "launch",
+            "program": "src/example_function.dart"
+        }
+    ]
+}
